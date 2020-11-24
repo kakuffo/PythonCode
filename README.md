@@ -12,4 +12,8 @@ Download and install MacPorts
 sudo port -v selfupgrade
 sudo port install putty
 
-putty
+Run Putty on Mac
+
+1. OpenX11fromApplications->Utilities->X11
+2. export DISPLAY=":0"
+3. locale -a
