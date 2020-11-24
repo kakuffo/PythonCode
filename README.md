@@ -5,12 +5,12 @@
 
 ### Download the following
 
-Install Xcode
-Install Command Line Tools from Apple Account
-sudo xcodebuild -license
-Download and install MacPorts
-sudo port -v selfupgrade
-sudo port install putty
+1. Install Xcode
+2. Install Command Line Tools from Apple Account
+3. sudo xcodebuild -license
+4. Download and install MacPorts
+5. sudo port -v selfupgrade
+6. sudo port install putty
 
 Run Putty on Mac
 
