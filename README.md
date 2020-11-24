@@ -1,9 +1,9 @@
 # PythonCode
 
-This is an example of my Python Code update
-##Putty installation on Mac
 
-Download the following
+## Putty installation on Mac
+
+### Download the following
 
 Install Xcode
 Install Command Line Tools from Apple Account
